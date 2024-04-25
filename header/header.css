@@ -1,0 +1,23 @@
+header{
+    width: 120rem;
+    height: 8rem;
+    margin: auto;
+    border-bottom: 1px solid rgb(197, 197, 197);
+}
+.img1{
+    width: 8rem;
+    height: 8rem;
+    
+}
+.banner{
+    width: 120rem;
+    height: 10rem;
+    border: 1px solid black;
+    margin: auto;
+}
+.productos{
+    width: 120rem;
+    height: 80rem;
+    border: 1px solid black;
+    margin: auto;
+}
