@@ -1,0 +1,18 @@
+.section_banner {
+    width: 120rem;
+    height: 35rem;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.banner_img {
+    width: 120rem;
+    height: 35rem;
+}
+
+.banner_img img {
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+}
